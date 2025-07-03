@@ -56,6 +56,10 @@
 		{
 			"Name": "V2C_Utilities",
 			"Enabled": true
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
