@@ -23,6 +23,4 @@ This VR experience aims to combine exploration, puzzle-solving, and environmenta
 - Immersive VR mechanics optimized for room-scale interaction
 - Energy flower collection system driving progression and environmental feedback
 - Themed planets with unique ecosystems, visual styles, and physical properties
-- Atmospheric sound design and ambient music
-- VR locomotion via teleportation or smooth movement (configurable)
 
